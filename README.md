@@ -21,3 +21,5 @@
 #### 2) Allow Location Access: Click "ALLOW" when prompted to enable location detection.
 #### 3) View Weather Data: Instantly access weather parameters such as temperature, humidity, visibility, and wind speed for your current location.
 #### 4) Search for Locations: Use the search bar to look up weather information for any city globally.
+
+![Screenshot 2024-05-15 194425](https://github.com/Amarendra22/Weather_React_App/assets/120000271/a9be3a9e-502d-4921-9887-8794cf5da0e8)
