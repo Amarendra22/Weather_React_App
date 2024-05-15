@@ -1,4 +1,4 @@
-#WeatherTrackr App
+# WeatherTrackr App
 
 ### Libraries used:
 #### 1)Axios
@@ -10,7 +10,7 @@
 ### Overview:
 #### WeatherTrackr is a user-friendly weather application that provides real-time weather updates for locations worldwide. Powered by the OpenWeather API, this app offers comprehensive weather data, including temperature, humidity, visibility, and wind speed.
 
-###Features:
+### Features:
 #### 1) Location Detection: Upon launching the app, users are prompted to allow location access. WeatherTrackr automatically detects the user's location to provide accurate weather information.
 #### 2) Default Location: If location access is blocked, the app defaults to showing weather data for Pune, India.
 #### 3) Search Functionality: Users can search for weather information by entering the name of any city worldwide in the search bar.
