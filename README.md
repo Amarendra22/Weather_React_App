@@ -8,7 +8,7 @@
 #### 5)react-skycons
 
 ### Overview:
-#### WeatherTrackr is a user-friendly weather application that provides real-time weather updates for locations worldwide. Powered by the OpenWeather API, this app offers comprehensive weather data, including temperature, humidity, visibility, and wind speed.
+#### WeatherTrackr is a user-friendly weather application made using ReactJS that provides real-time weather updates for locations worldwide. Powered by the OpenWeather API, this app offers comprehensive weather data, including temperature, humidity, visibility, and wind speed.
 
 ### Features:
 #### 1) Location Detection: Upon launching the app, users are prompted to allow location access. WeatherTrackr automatically detects the user's location to provide accurate weather information.
